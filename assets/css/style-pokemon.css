@@ -1,0 +1,75 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#container {
+    padding: 50px;
+    border-radius: 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.info-Poke{
+    color: #fff;
+    text-align: justify;
+}
+
+h2{
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+h3{
+    font-size: 1em;
+    text-align: center;
+    margin: 10px 0 10px;
+}
+p{
+    padding: 5px;
+    font-size: 15px;
+}
+span{
+    font-size: 15px;
+    border-bottom: 2px solid #fff;
+}
+.resumo{
+    text-align: justify;
+    margin: 10px 0 10px 115px;
+}
+img {
+    position: absolute;
+    height: 100px;
+}
+.Charmander{
+    border-radius: 30px;
+    padding: 10px;
+    background-color: #ee7f30;
+}
+.bubassaur{
+    border-radius: 30px;
+    padding: 10px;
+    background-color: #77c850;
+
+}
+.Squirtle{
+    border-radius: 30px;
+    padding: 10px;
+    background-color: #678fee;
+
+}
+.Pikachu{
+    border-radius: 30px;
+    padding: 10px;
+    background-color: #f7cf2e;
+
+}
+.Ratata{
+    border-radius: 30px;
+    padding: 10px;
+    background-color: #8a4bc2;
+
+}
